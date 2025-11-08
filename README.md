@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180"/>
 
-# Netflix SQL Analytics Project (Learning Project)
+# Netflix SQL Analytics Project  
 
 This repository contains my full hands-on SQL project using the Netflix Movies & TV Shows dataset.
 
